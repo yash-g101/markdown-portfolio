@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Learn GitHub
+  * Issue
+  * Commit
+  * Merge
+  * Pages
+* Learn Django
+* Learn React
