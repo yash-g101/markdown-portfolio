@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am learning GitHub*
+
+_I am learning GitHub_
+
+**I will learn Django**
+
+__I will learn Django__
+
+_I will learn **Django** later_
